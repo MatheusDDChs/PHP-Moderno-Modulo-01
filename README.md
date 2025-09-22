@@ -3,8 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="PHP-Moderno-Modulo-01.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
-
 # PHP-MODERNO-MODULO-01
 
 <em>Empowering Modern PHP Development for Limitless Innovation</em>
